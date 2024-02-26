@@ -2,8 +2,7 @@
 
 Online based meal management system.  The purpose of this project is to reduce the boring calculation and other parts of meal controlling system.  
 
-
-### Used Technology  ###
+# Used Technology #
 
 * `HTML`
 * `CSS`
@@ -11,5 +10,3 @@ Online based meal management system.  The purpose of this project is to reduce t
 * `JQury`
 * `PHP`
 * `MySQL`
-
-
